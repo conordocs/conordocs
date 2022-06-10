@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @conordocs
 - 👀 I’m interested in Web Development/Design with a closer focus on PHP, SQL, HTML, JavaScript
-- 🌱 I’m currently learning React JS, SASS & Angular JS
+- 🌱 I’m currently learning React JS & SASS
 - 📫 How to reach me: conordoherty97@hotmail.com
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
