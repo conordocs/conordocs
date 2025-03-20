@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer specializing in PHP 
 I love building and contributing to open-source projects! Check out my repositories to see what I’ve been working on.
 
 ### 📫 Let's Connect!
-- Portfolio: [https://conordocs.github.io](#)
+- Portfolio: [conordocs.github.io](#)
 - Email: [conordoherty97@hotmail.com](#)
 
 Looking forward to collaborating and learning together! 🚀
