@@ -1,14 +1,14 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [Conor]
 
 ## 🚀 Full Stack Developer | PHP & JavaScript Enthusiast
 
 Welcome to my GitHub! I'm a passionate Full Stack Developer specializing in PHP and JavaScript, with a strong focus on building scalable and efficient web applications. My expertise lies in Laravel for backend development and React.js for crafting interactive user interfaces.
 
 ### 🛠 Tech Stack
-- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, TailwindCSS, Bootstrap
-- **Backend:** PHP, Laravel, Node.js, Express.js
-- **Database:** MySQL, PostgreSQL, MongoDB
-- **Version Control:** Git, GitHub
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, TailwindCSS, Bootstrap, SASS
+- **Backend:** PHP, Laravel, Node.js
+- **Database:** MySQL, PostgreSQL
+- **Version Control:** Git, GitHub, Bitbucket
 - **Tools & DevOps:** Docker, Nginx, Apache, Postman
 
 ### 🌱 Currently Learning
